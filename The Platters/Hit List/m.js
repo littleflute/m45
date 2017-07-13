@@ -1,0 +1,14 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Only You (And You Alone).mp3";		
+f[2]	= "02 The Great Pretender.mp3";		
+f[3]	= "03 (You've Got) The Magic Touch.mp3";		
+f[4]	= "04 My Prayer.mp3";		
+f[5]	= "05 Heaven on Earth.mp3";		
+f[6]	= "06 It Isn't Right.mp3";		
+f[7]	= "07 I'm Sorry.mp3";		
+f[8]	= "08 Twilight Time.mp3";		
+f[9]	= "09 Smoke Gets in Your Eyes.mp3";		
+f[10]	= "10 Harbor Lights.mp3";		
+f[11]	= "11 Red Sails in the Sunset.mp3";		
+f[12]	= "12 With This Ring.mp3";		
