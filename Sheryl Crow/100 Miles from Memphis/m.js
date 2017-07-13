@@ -1,0 +1,14 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Our Love Is Fading.mp3";		
+f[2]	= "02 Eye to Eye.mp3";		
+f[3]	= "03 Sign Your Name.mp3";		
+f[4]	= "04 Summer Day.mp3";		
+f[5]	= "05 Long Road Home.mp3";		
+f[6]	= "06 Say What You Want.mp3";		
+f[7]	= "07 Peaceful Feeling.mp3";		
+f[8]	= "10 100 Miles from Memphis.mp3";		
+f[9]	= "11 Roses and Moonlight.mp3";		
+f[10]	= "12 I Want You Back [-].mp3";		
+f[11]	= "Sideways.mp3";		
+f[12]	= "Stop.mp3";		
