@@ -1,4 +1,4 @@
-[v0.0.9](https://github.com/littleflute/m45/edit/master/README.md)
+[v0.1.9](https://github.com/littleflute/m45/edit/master/README.md)
 
 [Bananarama/Greatest Hits Collection (Bonus Tracks)](Bananarama/Greatest Hits Collection [Bonus Tracks])
 
@@ -13,3 +13,5 @@
 [The Kinks/Something Else by the Kinks](The Kinks/Something Else by the Kinks)
 
 [The Platters/Hit List](The Platters/Hit List)
+
+[The Rolling Stones/Blue & Lonesome](The Rolling Stones/Blue & Lonesome)
