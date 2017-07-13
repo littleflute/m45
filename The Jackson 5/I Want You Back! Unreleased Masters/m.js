@@ -1,0 +1,14 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Medley- I Want You Back-ABC-The Love You Save [Medley].mp3";		
+f[2]	= "02 That's How Love Is [Single Version].mp3";		
+f[3]	= "03 Listen I'll Tell You How.mp3";		
+f[4]	= "04 Man's Temptation.mp3";		
+f[5]	= "05 Never Can Say Goodbye [Alternate Take][Alternate Version].mp3";		
+f[6]	= "06 Love Comes in Different Flavors.mp3";		
+f[7]	= "07 ABC [Alternate Take][Alternate Version].mp3";		
+f[8]	= "08 Love Call.mp3";		
+f[9]	= "10 Lucky Day.mp3";		
+f[10]	= "11 I'll Try You'll Try (Maybe We'll All Get By).mp3";		
+f[11]	= "12 Dancing Machine [Alternate Take][Alternate Version].mp3";		
+f[12]	= "Buttercup.mp3";		
