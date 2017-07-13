@@ -1,0 +1,14 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Just Your Fool.mp3";		
+f[2]	= "02 Commit a Crime.mp3";		
+f[3]	= "03 Blue and Lonesome.mp3";		
+f[4]	= "04 All of Your Love.mp3";		
+f[5]	= "05 I Gotta Go.mp3";		
+f[6]	= "06 Everybody Knows About My Good Thing.mp3";		
+f[7]	= "07 Ride 'Em on Down.mp3";		
+f[8]	= "08 Hate to See You Go.mp3";		
+f[9]	= "09 Hoo Doo Blues.mp3";		
+f[10]	= "10 Little Rain.mp3";		
+f[11]	= "11 Just Like I Treat You.mp3";		
+f[12]	= "12 I Can't Quit You Baby.mp3";		
